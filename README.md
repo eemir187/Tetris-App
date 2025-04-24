@@ -57,5 +57,9 @@ The base game infrastructure—such as drawing the board, handling the game wind
   ```
 4. Run `pip install pygame` to install the library
 
+See screenshot in Windows below:
+
+![venv setup in Windows](screenshots/venv_install.png)
+
 
   
