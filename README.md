@@ -55,7 +55,7 @@ The base game infrastructure—such as drawing the board, handling the game wind
   ```
   .\.venv\Scripts\activate
   ```
-4. Run the following command to install the required library:  
+4. Run `pip install pygame` to install the library
 
 
   
