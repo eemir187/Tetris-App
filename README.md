@@ -57,9 +57,17 @@ The base game infrastructure—such as drawing the board, handling the game wind
   ```
 4. Run `pip install pygame` to install the library
 
+5. To start the game do `./python tetris.py`
+
 See screenshot in Windows below:
 
 ![venv setup in Windows](screenshots/venv_install.png)
 
+
+## Gameplay
+
+Here is a preview of the game:
+
+![Tetris gameplay](screenshots/image.png)
 
   
